@@ -1,5 +1,4 @@
- #TabTransformer: Tabular Data Modeling 
- #    Using Contextual Embeddings
+ #TabTransformer: Tabular Data Modeling Using Contextual Embeddings
 
 This project is inteded to review and analyze following article:
 
