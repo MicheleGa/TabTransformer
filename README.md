@@ -1,5 +1,5 @@
-************ TabTransformer: Tabular Data Modeling ************
-		Using Contextual Embeddings
+	 TabTransformer: Tabular Data Modeling 
+	     Using Contextual Embeddings
 
 This project is inteded to review and analyze following article:
 
@@ -7,7 +7,8 @@ https://arxiv.org/pdf/2012.06678.pdf
 
 where novel TabTransformer architecture is presented in order to 
 deal with learning task on tabular data.
-************ Project Structure ************
+
+	Project Structure 
 
 Gaspari_Michele/
 ├── EasyTabt/
@@ -30,7 +31,7 @@ Gaspari_Michele/
 ├── README
 └── tab_transformer_report.pdf
 
-************ Run Instructions ************
+	Run Instructions
 First directory 'EasyTabt' contains a minimal code
 to try out TabTransformer (running time < 5 min),
 while 'MovieLens' contains a whole pipeline to test
@@ -58,6 +59,6 @@ layers.
 To run 'MovieLens' demo, run tab_transformer_demo.py and
 the whole pipeline will start.
 
-************ Credits ************
+	Credits
 
 Report author: Gaspari Michele - 0001007249
