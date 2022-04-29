@@ -7,29 +7,6 @@ https://arxiv.org/pdf/2012.06678.pdf
 where novel TabTransformer architecture is presented in order to 
 deal with learning task on tabular data.
 
-# Project Structure 
-
-Gaspari_Michele/
-├── EasyTabt/
-│   ├── data/
-│   │   ├── bank-full.zip
-│   │   └── income_evaluation.zip
-│   ├── easy_tabt.py
-│   └── embeddings_visualization.py
-├── MovieLens/
-│   ├── data_acquisition.py
-│   ├── data_preprocessing.py
-│   ├── data_visualization.py
-│   ├── dataset.py
-│   ├── model.py
-│   ├── performance_measure.py
-│   ├── pipeline_output.txt
-│   ├── tab_transformer_demo.py
-│   ├── torch_models.py
-│   └── utils.py
-├── README
-└── tab_transformer_report.pdf
-
 # Run Instructions
 
 First directory 'EasyTabt' contains a minimal code
