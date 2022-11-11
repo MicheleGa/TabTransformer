@@ -312,7 +312,8 @@ def preprocessing(dataset_name, folder):
 
 if __name__ == '__main__':
     start = time.time()
-    datasets = ['income_evaluation.zip', 'bank-full.zip']
+    # datasets = ['income_evaluation.zip', 'bank-full.zip']
+    datasets = ['income_evaluation.zip']
 
     # make empty directories to save embeddings, plots and TabTransformer model
     embeddings_folder = Path('embedding_visualization')

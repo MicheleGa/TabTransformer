@@ -28,6 +28,28 @@ layers.
 To run 'MovieLens' demo, run tab_transformer_demo.py and
 the whole pipeline will start.
 
+# Third Party Code
+
+- Movielens dataset:
+
+[https://grouplens.org/datasets/movielens/](https://grouplens.org/datasets/movielens/)
+
+- IMDB dataset:
+
+[https://www.imdb.com/interfaces/](https://www.imdb.com/interfaces/)
+
+- Phil Wang repository for the model: 
+
+[https://github.com/lucidrains/tab-transformer-pytorch](https://github.com/lucidrains/tab-transformer-pytorch)
+
+- Tensorboard embedding projector:
+
+[https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin](https://www.tensorflow.org/tensorboard/tensorboard_projector_plugin)
+
+- ROC curves visualizationfrom scikit-learn:
+
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
+
 # Credits
 
-Report author: Gaspari Michele - 0001007249
+Review author: Gaspari Michele

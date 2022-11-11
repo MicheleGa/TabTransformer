@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch
+--extra-index-url https://download.pytorch.org/whl/cu117
+torchvision 
+--extra-index-url https://download.pytorch.org/whl/cu117
+torchaudio 
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+imblearn
+lightgbm
+tensorboard
+tab-transformer-pytorch
